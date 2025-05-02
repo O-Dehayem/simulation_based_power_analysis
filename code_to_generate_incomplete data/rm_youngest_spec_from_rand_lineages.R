@@ -123,5 +123,3 @@ remove_youngest_spec_from_random_lineages <- function(data_sims_trees, rich_line
   return(data_sims_G8)
 }
 
-# Example usage:
-remove_youngest_spec_from_random_lineages(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, Galapagos_sims_G)
