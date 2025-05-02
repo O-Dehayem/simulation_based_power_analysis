@@ -114,5 +114,4 @@ remove_random_spec_from_random_lineages <- function(data_sims_trees, rich_lineag
   return(data_sims_G9)
 }
 
-# Call the function with the specified parameters (assuming 'i' is defined elsewhere)
-remove_random_spec_from_random_lineages(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, Galapagos_sims_G)
+
