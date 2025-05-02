@@ -112,8 +112,7 @@ remove_entire_lineages_randomly <- function(data_sims_trees, rich_lineage_tresho
   }
   return(data_sims_G19)
 }
-# Execute the function with the given parameters
-remove_entire_lineages_randomly(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, Galapagos_sims_G)
+
 
 
 
