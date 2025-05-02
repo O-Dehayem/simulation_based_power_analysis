@@ -1,6 +1,6 @@
-#' This function takes a dataset as input and returns a list where each element corresponds to an island in the dataset.
-#' For each island, the function calculates the number of species by counting the branching times 
-#' of each lineage and subtracting one, as the first branching time represents the island's age.
+# This function takes a dataset as input and returns a list where each element corresponds to an island in the dataset.
+# For each island, the function calculates the number of species by counting the branching times 
+# of each lineage and subtracting one, as the first branching time represents the island's age.
 
 
 
