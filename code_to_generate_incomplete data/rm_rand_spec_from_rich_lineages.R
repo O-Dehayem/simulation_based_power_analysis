@@ -102,4 +102,4 @@ remove_random_spec_from_rich_lineages <- function(data_sims_trees, rich_lineage_
   return(data_sims_G3)
 }
 
-remove_random_spec_from_rich_lineages(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, Galapagos_sims_G)
+
