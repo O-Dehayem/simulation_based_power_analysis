@@ -141,5 +141,4 @@ remove_youngest_spec_from_poor <- function(data_sims_trees, rich_lineage_treshol
   return (data_sims_G5)
 }
 
-# Execute the function with the provided parameters
-remove_youngest_spec_from_poor(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, Galapagos_sims_G)
+
