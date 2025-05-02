@@ -81,4 +81,4 @@ rm_oldest_spec_from_rich_linages <- function(all_trees, rich_lineage_treshold, p
 
 }
 
-rm_oldest_spec_from_rich_linages <- (data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, data_sims_G)
+
