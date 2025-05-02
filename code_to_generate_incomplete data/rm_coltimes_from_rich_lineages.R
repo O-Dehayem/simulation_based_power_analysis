@@ -63,5 +63,6 @@ remove_coltimes_from_rich <- function(rich_lineage_threshold, percentage_coltime
   return(modified_datasets)
 }
 
+# Example usage
 remove_coltimes_from_rich <- data_sims_G16(rich_lineage_treshold,coltimes_to_remove, data_sims_G)
 
