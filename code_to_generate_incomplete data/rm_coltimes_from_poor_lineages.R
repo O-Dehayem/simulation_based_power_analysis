@@ -69,5 +69,7 @@ remove_coltimes_from_poor <- function(rich_lineage_threshold, percentage_coltime
   return(data_sims_G17)
 }
 
+
+# Example usage
 remove_coltimes_from_poor <- data_sims_G17(rich_lineage_treshold,coltimes_to_remove,data_sims_G)
 
