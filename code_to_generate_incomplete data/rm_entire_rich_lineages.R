@@ -96,6 +96,5 @@ remove_entire_rich_lineages <- function(data_sims_trees, rich_lineage_treshold, 
   }
   return (data_sims_G14)
 }
-# Execute the function with the given parameters
-remove_entire_rich_lineages(data_sims_trees, rich_lineage_treshold, percentage_spec_to_remove, Galapagos_sims_G)
+
 
