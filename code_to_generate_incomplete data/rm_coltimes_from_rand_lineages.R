@@ -69,5 +69,7 @@ remove_coltimes_from_random <- function(rich_lineage_threshold, percentage_colti
   return(data_sims_G18)
 }
 
+
+# Example usage
 remove_coltimes_from_random <- data_sims_G18(rich_lineage_treshold,coltimes_to_remove,data_sims_G)
 
